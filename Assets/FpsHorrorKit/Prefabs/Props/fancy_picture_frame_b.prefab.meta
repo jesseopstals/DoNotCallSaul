@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd3672a5fbb2bb342ab6f72ba8264dea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Props/fancy_picture_frame_b.prefab
+  uploadId: 751147

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37e2a96ea5b6b534c8358fb3189ed4d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/potted_plant_01_pot.mat
+  uploadId: 751147

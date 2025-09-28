@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57616ffe599b3a14f992f7660ffc0605
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Decals/Fingerprint_DarkGrey.prefab
+  uploadId: 751147

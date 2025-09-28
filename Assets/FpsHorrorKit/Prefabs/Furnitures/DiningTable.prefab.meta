@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aecaa605a0fe09547b8ec4167a5c4144
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Furnitures/DiningTable.prefab
+  uploadId: 751147

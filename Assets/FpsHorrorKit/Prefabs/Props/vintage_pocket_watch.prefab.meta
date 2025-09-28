@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c40476d13a45add4491b6d7621f6726f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Props/vintage_pocket_watch.prefab
+  uploadId: 751147

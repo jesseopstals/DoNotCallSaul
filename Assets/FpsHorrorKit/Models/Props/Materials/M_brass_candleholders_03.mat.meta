@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 758ffc648223e2548b3adb3940686941
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/M_brass_candleholders_03.mat
+  uploadId: 751147

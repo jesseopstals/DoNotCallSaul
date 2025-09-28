@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 519a483e6b0040c44a3d11b7ca9b3e5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Materials/PM_CandleFlame.mat
+  uploadId: 751147

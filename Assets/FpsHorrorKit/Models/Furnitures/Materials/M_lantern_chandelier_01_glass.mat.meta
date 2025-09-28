@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8747d19ca71c68a41911eaedf07022e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Furnitures/Materials/M_lantern_chandelier_01_glass.mat
+  uploadId: 751147

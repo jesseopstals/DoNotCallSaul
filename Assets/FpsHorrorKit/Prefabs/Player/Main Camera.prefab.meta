@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d88603f36917b640995f0f93a2e9767
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Player/Main Camera.prefab
+  uploadId: 751147

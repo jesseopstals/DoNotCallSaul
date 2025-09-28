@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 229b3f44d90bad649aaa071eaab71a17
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Doors/Materials/M_DoorBody.mat
+  uploadId: 751147

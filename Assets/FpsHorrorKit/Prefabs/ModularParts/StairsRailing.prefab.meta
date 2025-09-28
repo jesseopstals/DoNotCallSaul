@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5969a09a6150aa34c95cd060f82cf711
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/ModularParts/StairsRailing.prefab
+  uploadId: 751147

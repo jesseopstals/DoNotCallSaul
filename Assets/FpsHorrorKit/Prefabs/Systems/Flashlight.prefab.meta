@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6643704503cd0ff4c90cc8a681153469
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Systems/Flashlight.prefab
+  uploadId: 751147

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3fed01a03a7a8fc44aa7df8654da307d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Furnitures/GothicCabinet.prefab
+  uploadId: 751147

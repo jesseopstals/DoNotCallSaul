@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2b442f928d95bf40a7d2fa9d38ae5dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Furnitures/Lights/Lantern_Chandelier.prefab
+  uploadId: 751147

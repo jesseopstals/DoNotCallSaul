@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baa70fb541a30da428f5383449090c8b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/ModularParts/Column.prefab
+  uploadId: 751147

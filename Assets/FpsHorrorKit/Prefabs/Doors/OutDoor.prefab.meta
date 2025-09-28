@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f0fe09158103e545adb2a10f42fbb43
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Doors/OutDoor.prefab
+  uploadId: 751147

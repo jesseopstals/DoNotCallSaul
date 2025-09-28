@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a45177924b093a4ca1d965eaac10d6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Doors/Materials/Glass_Dark.mat
+  uploadId: 751147

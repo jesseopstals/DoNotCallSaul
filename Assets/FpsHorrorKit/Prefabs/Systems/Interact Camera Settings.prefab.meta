@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0197d857ac1bb724586900f89aebcdd0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Systems/Interact Camera Settings.prefab
+  uploadId: 751147

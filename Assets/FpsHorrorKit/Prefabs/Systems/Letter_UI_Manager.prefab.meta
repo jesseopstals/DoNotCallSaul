@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcefd6f0a7169454eb2966d0b7b74f7e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Systems/Letter_UI_Manager.prefab
+  uploadId: 751147

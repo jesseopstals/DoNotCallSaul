@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45dcfb5be978e0b4ebe1f4a6d33a291e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/M_carved_wooden_plate.mat
+  uploadId: 751147

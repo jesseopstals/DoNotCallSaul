@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d04d4e2c85939946948d71477e7d35f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/NewModels/m_body.mat
+  uploadId: 751147

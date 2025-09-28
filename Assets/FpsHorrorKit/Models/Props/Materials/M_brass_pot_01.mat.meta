@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2165659189e82674ab59e10e49f9d0f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/M_brass_pot_01.mat
+  uploadId: 751147

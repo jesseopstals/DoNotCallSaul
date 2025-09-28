@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdaa9ea572aa16e48adfafb7b9f26de0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Materials/DecalMaterials/DM_Blood.mat
+  uploadId: 751147

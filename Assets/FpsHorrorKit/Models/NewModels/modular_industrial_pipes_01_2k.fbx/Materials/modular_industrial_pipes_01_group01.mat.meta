@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f70cb624cc6f90640865c9c633e9ddfe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/NewModels/modular_industrial_pipes_01_2k.fbx/Materials/modular_industrial_pipes_01_group01.mat
+  uploadId: 751147

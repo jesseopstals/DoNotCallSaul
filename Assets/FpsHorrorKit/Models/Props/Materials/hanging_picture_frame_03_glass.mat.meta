@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78a410e53231d0649a68e51fc6b876b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/hanging_picture_frame_03_glass.mat
+  uploadId: 751147

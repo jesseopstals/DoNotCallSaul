@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3384f3a6d835010458306d14fa3cdf6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Furnitures/Materials/M_WoodenTable.mat
+  uploadId: 751147

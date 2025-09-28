@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b58eff5598ef854bb7090f39a2e83a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Furnitures/GothicBed.prefab
+  uploadId: 751147

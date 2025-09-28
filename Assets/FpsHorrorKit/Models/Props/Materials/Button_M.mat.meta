@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb359de5c349c144ab5f1abfdac27d24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/Button_M.mat
+  uploadId: 751147

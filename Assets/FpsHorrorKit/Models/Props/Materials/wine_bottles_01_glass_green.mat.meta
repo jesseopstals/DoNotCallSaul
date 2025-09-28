@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 122611919d0fc324ca38dc24bdb01935
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/wine_bottles_01_glass_green.mat
+  uploadId: 751147

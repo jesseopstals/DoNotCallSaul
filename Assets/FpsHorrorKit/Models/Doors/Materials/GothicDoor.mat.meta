@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2c5b60c5e8f4ca40bf68d92e1d28745
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Doors/Materials/GothicDoor.mat
+  uploadId: 751147

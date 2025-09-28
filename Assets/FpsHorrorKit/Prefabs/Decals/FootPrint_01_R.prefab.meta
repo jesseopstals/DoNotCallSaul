@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1a86e64a6afccd458989759e5acae62
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Decals/FootPrint_01_R.prefab
+  uploadId: 751147

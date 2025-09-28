@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa570ccf2b4cb1e448feba4aecbf4d5d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Doors/Single_Door.prefab
+  uploadId: 751147

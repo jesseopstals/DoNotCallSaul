@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 838c6c2462e86cd40b5be6194be34c13
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Doors/Double_Door.prefab
+  uploadId: 751147

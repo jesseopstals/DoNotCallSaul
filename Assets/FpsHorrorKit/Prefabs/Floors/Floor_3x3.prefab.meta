@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff5caca37e2ec244786caed5adb53dd0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Floors/Floor_3x3.prefab
+  uploadId: 751147

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bce44e11e66c5824d89d96511c7e360d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Systems/Light Switch System.prefab
+  uploadId: 751147

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 391611f12f41eb34d9b3ef91a280a5a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Systems/Item Usage System.prefab
+  uploadId: 751147

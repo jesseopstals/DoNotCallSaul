@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ed712e578bb735499bbd4828dfd8030
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Props/carved_wooden_plate.prefab
+  uploadId: 751147

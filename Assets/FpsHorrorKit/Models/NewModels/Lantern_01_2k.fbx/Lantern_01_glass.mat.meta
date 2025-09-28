@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b82af221e097b1c47a7ede3f9b757000
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/NewModels/Lantern_01_2k.fbx/Lantern_01_glass.mat
+  uploadId: 751147

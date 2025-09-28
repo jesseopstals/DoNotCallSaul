@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2efe8bf877ebc6f4fa23dcbad6d00d0a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/InteractablePrefabs/Lantern.prefab
+  uploadId: 751147

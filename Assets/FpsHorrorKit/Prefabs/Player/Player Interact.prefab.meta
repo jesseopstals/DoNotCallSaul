@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3e59e69e1406a04e9d042c5f605cf12
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Player/Player Interact.prefab
+  uploadId: 751147

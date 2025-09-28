@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e892a2e68b9ada44c9714e8371a33409
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/M_wooden_bowl_02.mat
+  uploadId: 751147

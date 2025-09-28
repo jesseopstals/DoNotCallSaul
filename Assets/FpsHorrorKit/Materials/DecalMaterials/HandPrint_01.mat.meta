@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27e712b3bcaa8664484ceb9afa27a2cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Materials/DecalMaterials/HandPrint_01.mat
+  uploadId: 751147

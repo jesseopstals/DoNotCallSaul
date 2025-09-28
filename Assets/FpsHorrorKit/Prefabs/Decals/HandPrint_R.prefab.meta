@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b660be9d048d8794fae196e4aad3576e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Decals/HandPrint_R.prefab
+  uploadId: 751147

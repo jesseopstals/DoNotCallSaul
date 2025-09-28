@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25f4f8d6c25384547bbf696a3f1f3132
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Materials/DecalMaterials/Ay.mat
+  uploadId: 751147

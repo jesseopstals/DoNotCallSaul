@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa2c88c5fd9cf8e4893e5e5492745f20
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/fancy_picture_frame_02_canvas.mat
+  uploadId: 751147

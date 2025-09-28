@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd6a28556e00025489ef63d085364843
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Shaders/M_Wall_Bodrum.mat
+  uploadId: 751147

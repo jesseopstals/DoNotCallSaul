@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdf5537072e643b4ab0d9e00329e6676
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Materials/Prototip_Floor.mat
+  uploadId: 751147

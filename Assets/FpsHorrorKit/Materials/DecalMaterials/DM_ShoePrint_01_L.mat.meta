@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4da42154b0e8d89449f16c52ae0e0032
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Materials/DecalMaterials/DM_ShoePrint_01_L.mat
+  uploadId: 751147

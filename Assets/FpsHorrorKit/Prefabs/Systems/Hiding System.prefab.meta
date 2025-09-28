@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f3cad05c550cc647a2306f847a3e4eb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Systems/Hiding System.prefab
+  uploadId: 751147

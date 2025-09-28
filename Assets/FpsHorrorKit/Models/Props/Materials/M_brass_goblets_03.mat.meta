@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d1d48a190ee6e0478d4579de7ceb31c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/M_brass_goblets_03.mat
+  uploadId: 751147

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c23d6229f08f3154da677ab158022b3f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/ModulerWalls/Wall_3x1_DS_DM.prefab
+  uploadId: 751147

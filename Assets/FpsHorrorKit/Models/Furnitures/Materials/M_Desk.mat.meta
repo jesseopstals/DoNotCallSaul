@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8abe745d2d2a56b449f2a1ec13065fcf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Furnitures/Materials/M_Desk.mat
+  uploadId: 751147

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efd2d8d511f026748b42f2b7b5e755a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Shaders/M_Wall.mat
+  uploadId: 751147

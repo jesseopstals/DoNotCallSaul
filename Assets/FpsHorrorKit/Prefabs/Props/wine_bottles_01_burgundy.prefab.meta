@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f42c4c1e239e2774085dab6048af658e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Props/wine_bottles_01_burgundy.prefab
+  uploadId: 751147

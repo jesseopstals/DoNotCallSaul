@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d37ce24eda24d1c4dbd8c7d6b167bfae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/M_brass_vase_001.mat
+  uploadId: 751147

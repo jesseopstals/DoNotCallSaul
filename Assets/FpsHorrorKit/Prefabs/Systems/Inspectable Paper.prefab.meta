@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb87be1fb1853c14eb7feb36eee9b6f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Systems/Inspectable Paper.prefab
+  uploadId: 751147

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72e7411a062a92d45b23b56eee208766
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Props/Materials/M_vintage_pocket_watch_glass.mat
+  uploadId: 751147

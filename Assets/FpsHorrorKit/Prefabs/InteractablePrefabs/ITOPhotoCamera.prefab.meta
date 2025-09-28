@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6889356686a20ad42b70e3a48798d524
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/InteractablePrefabs/ITOPhotoCamera.prefab
+  uploadId: 751147

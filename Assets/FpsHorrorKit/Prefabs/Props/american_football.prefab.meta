@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65a708655517c994eae46568c0bf97ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Props/american_football.prefab
+  uploadId: 751147

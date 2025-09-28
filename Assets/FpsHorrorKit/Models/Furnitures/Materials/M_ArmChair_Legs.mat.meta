@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e0877dbab52f0e468dccbb1a51bbdca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Models/Furnitures/Materials/M_ArmChair_Legs.mat
+  uploadId: 751147

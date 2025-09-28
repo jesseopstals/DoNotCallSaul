@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5f3a43fe4674e1418150e0e72b8e9c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310075
+  packageName: FPS Horror Game Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/FpsHorrorKit/Prefabs/Decals/ShoePrint_01_R.prefab
+  uploadId: 751147
